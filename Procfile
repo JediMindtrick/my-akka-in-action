@@ -1,1 +1,2 @@
-web: target/start com.goticks.Main
+web: target/start 
+com.goticks.Main
